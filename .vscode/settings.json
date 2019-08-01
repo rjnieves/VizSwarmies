@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "~/pythonenv/VIZ-SWARMIES/bin/python",
+  "python.linting.pylintArgs": [
+    "--extension-pkg-whitelist=pygame",
+    "--indent-string=\"  \""
+  ]
+}
